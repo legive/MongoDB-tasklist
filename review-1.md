@@ -1,6 +1,9 @@
 
 Hola! Soy Leyla Vasquez, una desarrolladora fullstack, y me emociona presentarte mi última creación: "Organiza tu día". Esta aplicación ha sido diseñada con el propósito específico de simplificar tu vida y potenciar tu productividad en tus tareas diarias. ¡Vamos a explorarla juntos!
 
+![Lista de tareas](https://www.softzone.es/app/uploads-softzone.es/2020/05/Lista-de-tareas.jpg?x=480&y=375&quality=40)
+
+
 "Organiza tu día" se presenta como una herramienta esencial para gestionar eficazmente tanto tus tareas pendientes como las ya completadas. En un mundo lleno de responsabilidades y ocupaciones, es común que algunas tareas importantes se nos escapen. Por esta razón, creamos esta aplicación pensando en ti, con la misión de hacer tu día más productivo y organizado.
 
 Principales Características:
