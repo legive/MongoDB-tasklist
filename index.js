@@ -10,8 +10,8 @@ const listEditRouter = require("./list-edit-router");
 const listViewRouter = require("./list-view-router");
 
 app.use(express.json());
-app.use("/api/tasklist", listViewRouter);
-app.use("/api/tasklist", listEditRouter);
+app.use("/api/v1/tasklist", listViewRouter);
+app.use("/api/v1/tasklist", listEditRouter);
 
 
 app.get("/", function (req, res) {
